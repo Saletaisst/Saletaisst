@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<p align=center><img src="https://github.com/user-attachments/assets/4bf87d36-1045-44dd-a141-511990b6defc"></p>
+<p align=center><img src="https://github.com/user-attachments/assets/4bf87d36-1045-44dd-a141-511990b6defc" width=150></p>
 
 I'm **Saletaisst**, a passionate developer dedicated to **validating cryptocurrency nodes**. My mission is to ensure the security and integrity of decentralized networks through robust validation processes.
 

@@ -17,7 +17,7 @@ I'm **Saletaisst**, a passionate developer dedicated to **validating cryptocurre
 ### 📚 Guides
 - **0G Da Node Guide** - https://teletype.in/@saletaisst/0g_da_node_guide
 - **0G Da Retriever Guide** - https://teletype.in/@saletaisst/0g_Da_Retriever_Guide
-- **Warden Protocol Guide** - 
+- **Warden Protocol Guide** - https://github.com/Saletaisst/Warden-Protocol-Node-Guide/tree/main
 
 
 ### 🌟 Skills

@@ -14,6 +14,12 @@ I'm **Saletaisst**, a passionate developer dedicated to **validating cryptocurre
 - **Artela**: artvaloper1ra89vszsnzl0zgyjxvecq3d6zpe2vk2fv63rn7
 - **AirChains**: airvaloper1g6upujzk5s35xrwzjcxrcz4m9y5zvqdp9aef49
 
+### 📚 Guides
+- **0G Da Node Guide** - https://teletype.in/@saletaisst/0g_da_node_guide
+- **0G Da Retriever Guide** - https://teletype.in/@saletaisst/0g_Da_Retriever_Guide
+- **Warden Protocol Guide** - 
+
+
 ### 🌟 Skills
 - **Blockchain Technologies**
 - **Cryptographic Protocols**

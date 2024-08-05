@@ -9,9 +9,10 @@ I'm **Saletaisst**, a passionate developer dedicated to **validating cryptocurre
 - **Blockchain Security**: Analyzing and mitigating risks within blockchain networks.
 - **Decentralized Networks**: Supporting the growth and reliability of decentralized ecosystems.
 
-### 🚀 Current Projects
-- **NodeValidator**: A toolkit for automated cryptocurrency node validation.
-- **CryptoGuardian**: Enhancing blockchain security protocols.
+### 🚀 Current and Past Activity
+- **Warden Protocol**: wardenvaloper1rzztx7vqntjpvygysqaaneg6zlk8dsa6pc3yu8
+- **Artela**: artvaloper1ra89vszsnzl0zgyjxvecq3d6zpe2vk2fv63rn7
+- **AirChains**: airvaloper1g6upujzk5s35xrwzjcxrcz4m9y5zvqdp9aef49
 
 ### 🌟 Skills
 - **Blockchain Technologies**
@@ -21,5 +22,10 @@ I'm **Saletaisst**, a passionate developer dedicated to **validating cryptocurre
 
 ### 📫 Let's Connect!
 Feel free to reach out if you're interested in collaboration or just want to chat about blockchain and cryptocurrencies.
+
+- **Twitter**: https://x.com/Saletaisst
+- **Discord**: https://discord.com/users/846552250590822450
+- **Teletype**: https://teletype.in/@saletaisst
+- **Email**: ritanwosu72@gmail.com
 
 Happy validating! 🛡️

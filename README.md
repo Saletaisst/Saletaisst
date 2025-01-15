@@ -15,6 +15,7 @@ I'm **Saletaisst**, a passionate developer dedicated to **validating cryptocurre
 - **AirChains**: airvaloper1g6upujzk5s35xrwzjcxrcz4m9y5zvqdp9aef49
 
 ### 📚 Guides
+- **Over Operator Node** - https://github.com/Saletaisst/over-node
 - **Analog Timechain Node** - https://github.com/Saletaisst/Analog-Node-Guide
 - **0G Da Node Guide** - https://teletype.in/@saletaisst/0g_da_node_guide
 - **0G Da Retriever Guide** - https://teletype.in/@saletaisst/0g_Da_Retriever_Guide
